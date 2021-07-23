@@ -23,3 +23,8 @@ Github Pages 기반의 블로그입니다.
 ### 깃허브 계정이 없으신 분들
 
 계정이 없으실 경우 불편하시겠지만 [메일](mailto:mazinggom@hotmail.com)이나 SNS를 이용해서 연락 주시기 바랍니다.
+
+### 테마 관련
+
+아주 유명한 Jekyll 테마인 [minimal-mistakes](https://mmistakes.github.io/minimal-mistakes/) 기반으로 작성되었습니다.  
+사용 가이드 : <https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/>

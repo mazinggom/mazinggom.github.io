@@ -1,9 +1,15 @@
 # main links
 main:
+  - title: "카테고리"
+    url: /categories/
+  - title: "일기"
+    url: /categories/일기/
+  - title: "칼럼"
+    url: /categories/칼럼/
+  - title: "이 블로그는..."
+    url: /about/
   # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
